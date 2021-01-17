@@ -70,7 +70,9 @@ email: ""
 highlight_name: false
 ---
 
+THIS WEBSITE IS UNDER CONSTRUTCTION.
+
 I am a PhD student in the Department of Economics at the Stockholm School of Economics in Sweden.
 I work in International Macroeconimcs with a focus on International Trade.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Here you can find my {{< staticref "media/demo_resume.pdf" "newtab" >}}CV{{< /staticref >}}.
